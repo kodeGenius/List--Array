@@ -3,4 +3,5 @@ const listToArray=(list)=>{
 	for(let est = list; est; est = est.rest){
 		array.push(est.value);
 	}
+	return array;
 }
