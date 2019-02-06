@@ -1,4 +1,4 @@
-const listToArray=(list)=>{
+cons listToArray=(list)=>{
 	let array = [];
 	for(let est = list; est; est = est.rest){
 		array.push(est.value);
