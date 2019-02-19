@@ -1,3 +1,3 @@
 # List--Array
 This resolved.
-Okay.
+Oka
